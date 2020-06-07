@@ -34,7 +34,7 @@ const RESOURCES = {
 "assets/LICENSE": "3034ddf27fef3bfc05bf0d1010122e0c",
 "index.html": "9464571ed319b35d55d3552df0a2a59e",
 "/": "9464571ed319b35d55d3552df0a2a59e",
-"main.dart.js": "5895ae558ca728dad412cff3655dcaa5"
+"main.dart.js": "1f2b82149b70900f8ad810917e71dc6b"
 };
 
 self.addEventListener('activate', function (event) {
