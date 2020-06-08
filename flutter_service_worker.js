@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d4fa1df124f4cd1dbc580b11613691cc",
+  "assets/AssetManifest.json": "cb477c3f3e8c9e5094f1695ab4b738ef",
 "assets/assets/images/aground.png": "923f1ad7025fd9e71e9e3b4b41fa284a",
 "assets/assets/images/anchored.png": "19ecc2098dad873b8c0bc37c8b5ed254",
 "assets/assets/images/boarders%2520ready.png": "1388fe3293d81d2434e3eed1bd3a3aab",
@@ -29,12 +29,13 @@ const RESOURCES = {
 "assets/assets/images/shorebattery.png": "5644846b4e1641ab68c6f84eb071136d",
 "assets/assets/images/towing.png": "731f7a9416f2e5da53eefd626b40a53f",
 "assets/assets/images/wheelshotaway.png": "6348fcfabaccb8820780d2176f6f5c73",
+"assets/assets/tables/movement_determination.csv": "a5bdb9f1a5c5d0981e232df425813e60",
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "3034ddf27fef3bfc05bf0d1010122e0c",
 "index.html": "9464571ed319b35d55d3552df0a2a59e",
 "/": "9464571ed319b35d55d3552df0a2a59e",
-"main.dart.js": "1d7f6854999633716bce1398c1bc6c96"
+"main.dart.js": "699a8741460607acf6e25d7964c14c1f"
 };
 
 self.addEventListener('activate', function (event) {
